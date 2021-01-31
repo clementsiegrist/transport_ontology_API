@@ -3,7 +3,7 @@
 **Authors :** *Ihab Bendidi*, *Clément Siegrist* 
 
 Flask app development by Ihab Bendidi, Protégé-Ontology development by Clément Siegrist.
-For more details on the content of our ontology and our work consults our report [here](https://github.com/clementsiegrist/transport_ontology_API/blob/main/OWS_SIegristBendidi.pdf) and/or or oral presentation [here](https://github.com/clementsiegrist/transport_ontology_API/blob/main/Ontologie_transport_Prote%CC%81ge%CC%81-compressed.pdf)
+For more details on the content of our ontology and our work consults our report [here](https://github.com/clementsiegrist/transport_ontology_API/blob/main/OWS_SIegristBendidi.pdf) and/or or oral presentation [here](https://github.com/clementsiegrist/transport_ontology_API/blob/main/Ontologie_transport_Prote%CC%81ge%CC%81-compressed.pdf).
 
 ### Installation :
 

@@ -1,5 +1,8 @@
 # Public Transport Ontology Project
 
+**Authors :** *Ihab Bendidi*, *Clément Siegrist* 
+Flask app development by Ihab Bendidi, Protégé-Ontology development by Clément Siegrist.
+
 ### Installation :
 
 On the root folder of the project, run on terminal :
